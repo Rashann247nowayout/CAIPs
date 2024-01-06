@@ -1,4 +1,4 @@
----
+app/available_modules/1704540184000/@remixproject/plugin-api/index.js", "/app/index.js"]---w
 caip: 2
 title: Blockchain ID Specification
 author: Simon Warta (@webmaster128), ligi <ligi@ligi.de>, Pedro Gomes (@pedrouid), Antoine Herzog (@antoineherzog)
